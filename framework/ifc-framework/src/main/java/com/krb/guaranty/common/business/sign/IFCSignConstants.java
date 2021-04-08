@@ -1,0 +1,1 @@
+package com.krb.guaranty.common.business.sign;public class IFCSignConstants {    public static final String SIGN_KEY = "sign";    public static final String APP_KEY = "app";    public static final String REQUEST_NO_KEY = "requestNo";}
